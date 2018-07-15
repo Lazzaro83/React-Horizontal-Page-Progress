@@ -22,3 +22,5 @@ Example usage:
  backgroundColor="red"
 />
 ```
+
+[Click here to go to github repository:](https://github.com/Lazzaro83/React-Horizontal-Page-Progress)
