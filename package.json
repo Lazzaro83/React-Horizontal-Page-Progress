@@ -22,7 +22,7 @@
   "main": "build/index.js",
   "name": "react-horizontal-page-progress",
   "licence": "AGPL-3.0-or-later",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "keywords": ["react", "page scroller", "horizontal", "react component"],
   "repository": {
     "type": "git",
