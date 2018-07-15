@@ -1,37 +1,12 @@
 {
-  "_from": "react-horizontal-page-progress",
-  "_id": "react-horizontal-page-progress@0.0.2",
-  "_inBundle": false,
-  "_integrity":
-    "sha512-8lsG+3dZ3sd/WHZJygDW6CQYhS5JFddcWa8tRZYxMUp8y6gr2H37uPpN/sfdMD+xAIDRSaZ3H4Nd0GNjSb6vYw==",
-  "_location": "/react-horizontal-page-progress",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "react-horizontal-page-progress",
-    "name": "react-horizontal-page-progress",
-    "escapedName": "react-horizontal-page-progress",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": ["#USER", "/"],
-  "_resolved":
-    "https://registry.npmjs.org/react-horizontal-page-progress/-/react-horizontal-page-progress-0.0.1.tgz",
-  "_shasum": "1ce271564d2c5b93364389db265fc2b495065e79",
-  "_spec": "react-horizontal-page-progress",
-  "_where": "C:\\Users\\casad\\Desktop\\mojmodul",
   "author": {
     "name": "Lazar Nikolic",
     "email": "casadifianco@gmail.com"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "react": "^15.5.4",
     "webpack": "^2.6.1"
   },
-  "deprecated": false,
   "description":
     "Horizontal slider for top of screen. When scrolling page down or up, it moves right or left respectively.",
   "devDependencies": {
@@ -46,6 +21,13 @@
   },
   "main": "build/index.js",
   "name": "react-horizontal-page-progress",
+  "licence": "AGPL-3.0-or-later",
+  "version": "0.0.3",
+  "keywords": ["react", "page scroller", "horizontal", "react component"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lazzaro83/React-Horizontal-Page-Progress.git"
+  },
   "peerDependencies": {
     "react": "^15.5.4"
   },
@@ -53,7 +35,5 @@
     "build": "webpack",
     "start": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "0.0.2",
-  "licence": "AGPL-3.0-or-later"
+  }
 }
