@@ -17,7 +17,7 @@ backgroundColor: Also, pass to component what color should it be.
 Example usage:
 
 ```
-<HorizontalSlider
+<HorizontalPageProgress
  height="1px"
  backgroundColor="red"
 />
