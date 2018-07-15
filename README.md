@@ -23,4 +23,7 @@ Example usage:
 />
 ```
 
-[Click here to go to github repository:](https://github.com/Lazzaro83/React-Horizontal-Page-Progress)
+[Click here to go to github repository](https://github.com/Lazzaro83/React-Horizontal-Page-Progress)
+
+
+[Click here to see running example on code sandbox](https://codesandbox.io/s/52yqrrky1l)
